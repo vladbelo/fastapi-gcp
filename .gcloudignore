@@ -1,0 +1,16 @@
+# This file specifies files and directories that should be ignored when deploying to Google Cloud.
+# For more information, see: https://cloud.google.com/sdk/gcloud/reference/topic/gcloudignore
+
+# Ignore the following files and directories:
+.git
+.gitignore
+node_modules
+.DS_Store
+*.pyc
+__pycache__/
+.env
+.vscode/
+.idea/
+*.log
+.gcloudignore
+venv_fast_gcp_pro
